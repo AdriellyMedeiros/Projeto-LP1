@@ -1,0 +1,198 @@
+# depslib dependency file v1.0
+1529676427 source:c:\users\adrielly\documents\projeto\agendamento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"agendamento.h"
+	"paciente.h"
+
+1529442341 c:\users\adrielly\documents\projeto\agendamento.h
+	"paciente.h"
+
+1529652682 c:\users\adrielly\documents\projeto\paciente.h
+
+1529697463 source:c:\users\adrielly\documents\projeto\aluno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"define_constants.h"
+	"aluno.h"
+
+1529696314 c:\users\adrielly\documents\projeto\aluno.h
+	<windows.h>
+
+1529645557 source:c:\users\adrielly\documents\projeto\atendimento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"atendimento.h"
+	"bibliotecas.h"
+
+1529442355 c:\users\adrielly\documents\projeto\atendimento.h
+	"aluno.h"
+	"paciente.h"
+	"supervisor.h"
+	"agendamento.h"
+
+1529643504 c:\users\adrielly\documents\projeto\supervisor.h
+
+1529608643 c:\users\adrielly\documents\projeto\bibliotecas.h
+	"aluno.h"
+	"paciente.h"
+	"supervisor.h"
+	"atendimento.h"
+	"agendamento.h"
+	"main_functions.h"
+	"define_constants.h"
+	"interface.h"
+
+1529689220 c:\users\adrielly\documents\projeto\main_functions.h
+	<windows.h>
+	"bibliotecas.h"
+	"atendimento.h"
+
+1529699542 c:\users\adrielly\documents\projeto\interface.h
+
+1529702202 source:c:\users\adrielly\documents\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"bibliotecas.h"
+	"interface.h"
+
+1529696349 source:c:\users\adrielly\documents\projeto\main_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"main_functions.h"
+
+1529691640 source:c:\users\adrielly\documents\projeto\paciente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"define_constants.h"
+	"paciente.h"
+
+1529692501 source:c:\users\adrielly\documents\projeto\supervisor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"define_constants.h"
+	"supervisor.h"
+
+1529702310 source:c:\users\adrielly\documents\projeto\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"bibliotecas.h"
+	"interface.h"
+
+1529702310 c:\users\adrielly\documents\projeto\define_constants.h
+
+1529676427 source:c:\users\adrielly\desktop\adrielly\projeto\agendamento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"agendamento.h"
+	"paciente.h"
+
+1529442341 c:\users\adrielly\desktop\adrielly\projeto\agendamento.h
+	"paciente.h"
+
+1529652682 c:\users\adrielly\desktop\adrielly\projeto\paciente.h
+
+1529645557 source:c:\users\adrielly\desktop\adrielly\projeto\atendimento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"atendimento.h"
+	"bibliotecas.h"
+
+1529442355 c:\users\adrielly\desktop\adrielly\projeto\atendimento.h
+	"aluno.h"
+	"paciente.h"
+	"supervisor.h"
+	"agendamento.h"
+
+1529710414 c:\users\adrielly\desktop\adrielly\projeto\aluno.h
+	<windows.h>
+
+1529643504 c:\users\adrielly\desktop\adrielly\projeto\supervisor.h
+
+1529608643 c:\users\adrielly\desktop\adrielly\projeto\bibliotecas.h
+	"aluno.h"
+	"paciente.h"
+	"supervisor.h"
+	"atendimento.h"
+	"agendamento.h"
+	"main_functions.h"
+	"define_constants.h"
+	"interface.h"
+
+1529710622 c:\users\adrielly\desktop\adrielly\projeto\main_functions.h
+	<windows.h>
+	"bibliotecas.h"
+
+1529702310 c:\users\adrielly\desktop\adrielly\projeto\define_constants.h
+
+1529710994 c:\users\adrielly\desktop\adrielly\projeto\interface.h
+
+1529691640 source:c:\users\adrielly\desktop\adrielly\projeto\paciente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"define_constants.h"
+	"paciente.h"
+
+1529692501 source:c:\users\adrielly\desktop\adrielly\projeto\supervisor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"define_constants.h"
+	"supervisor.h"
+
+1529765375 source:c:\users\adrielly\desktop\adrielly\projeto\aluno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"define_constants.h"
+	"aluno.h"
+
+1529765604 source:c:\users\adrielly\desktop\adrielly\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"bibliotecas.h"
+	"interface.h"
+
+1529710698 source:c:\users\adrielly\desktop\adrielly\projeto\main_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"main_functions.h"
+
+1529765908 source:c:\users\adrielly\desktop\adrielly\projeto\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"bibliotecas.h"
+	"interface.h"
+
